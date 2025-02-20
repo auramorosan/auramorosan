@@ -1,16 +1,21 @@
-## Hi there 👋
+##👋 ¡Hola! Soy Aura, 
+💻 **Desarrolladora de Aplicaciones Web**
 
-<!--
-**auramorosan/auramorosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi pasión es crear soluciones digitales innovadoras y funcionales. 
+Tengo experiencia en desarrollo frontend y backend, siempre enfocándome en ofrecer interfaces intuitivas y experiencias de usuario excepcionales. 
+Mi misión es transformar ideas en productos que marcan la diferencia.  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y Herramientas  
+🔹 **Lenguajes:** Java, JavaScript, HTML5, CSS3, PHP, Vue.js, Node.js, Bootstrap
+🔹 **Bases de datos:** MySQL  
+🔹 **Herramientas:** Git, PhpMyAdmin, Visual Studio Code, NetBeans  
+🔹 **Sistemas Operativos:** Windows, Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Sobre mí  
+- 📌 Actualmente aprendiendo **.NET**  
+- 💡 Me apasiona resolver problemas con código y mejorar constantemente
+- 📌 Mira mis repositorios para encontrar proyectos interesantes en diversos lenguajes y tecnologias
+- 📫 ¿Quieres colaborar? ¡Contáctame!  
+
+📍 **Sígueme en GitHub:** [github.com/auramorosan](https://github.com/auramorosan)
+
