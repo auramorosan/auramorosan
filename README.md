@@ -6,10 +6,11 @@ Tengo experiencia en desarrollo frontend y backend, siempre enfocándome en ofre
 Mi misión es transformar ideas en productos que marcan la diferencia.  
 
 ## 🚀 Tecnologías y Herramientas  
-🔹 Lenguajes: Java, JavaScript, HTML5, CSS3, PHP, Vue.js, Node.js, Bootstrap
-🔹 Bases de datos: MySQL  
+🔹 Lenguajes: Java, JavaScript, HTML5, CSS3, PHP, Vue.js, Node.js, Bootstrap  
 🔹 Herramientas: Git, PhpMyAdmin, Visual Studio Code, NetBeans  
-🔹 Sistemas Operativos: Windows, Linux  
+🔹 Sistemas Operativos: Windows, Linux
+🔹 Bases de datos: MySQL
+
 
 ## 🌱 Sobre mí  
 - 📌 Actualmente aprendiendo **.NET**  
