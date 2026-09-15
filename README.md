@@ -7,6 +7,7 @@ QA Tester with hands-on experience in **manual and automated testing** of web ap
 ### 🧪 QA & Testing
 
 * Manual & Functional Testing
+* End-to-End (E2E) Testing
 * Regression & Integration Testing
 * Smoke & UI Testing
 * Performance Testing
