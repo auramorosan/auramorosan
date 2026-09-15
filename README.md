@@ -1,23 +1,28 @@
-##👋 ¡Hola! Soy Aura, 
-💻 **Desarrolladora de Aplicaciones Web**
+## 👋 Hi, I'm Aura Morosan
 
-Mi pasión es crear soluciones digitales innovadoras y funcionales. 
-Tengo experiencia en desarrollo frontend y backend, siempre enfocándome en ofrecer interfaces intuitivas y experiencias de usuario excepcionales. 
-Mi misión es transformar ideas en productos que marcan la diferencia.  
+**Junior QA Tester | Web Developer**
 
-##  Tecnologías y Herramientas
-🔹 Bases de datos: MySQL                          
-🔹 Lenguajes: Java, JavaScript, HTML5, CSS3, PHP, Vue.js, Node.js, Bootstrap  
-🔹 Herramientas: Git, PhpMyAdmin, Visual Studio Code, NetBeans  
-🔹 Sistemas Operativos: Windows, Linux
+QA Tester with hands-on experience in **manual and automated testing** of web applications and APIs. Interested in software quality, test automation, and continuous improvement.
 
+### 🧪 QA & Testing
 
+* Manual & Functional Testing
+* Regression & Integration Testing
+* Smoke & UI Testing
+* Performance Testing
+* API Testing
+* Test Automation
 
-##  Sobre mí  
-- 🌱 Actualmente aprendiendo **.NET**  
-- 💡 Me apasiona resolver problemas con código y mejorar constantemente
-- 📌 Mira mis repositorios para encontrar proyectos interesantes en diversos lenguajes y tecnologias
-- 📫 ¿Quieres colaborar? ¡Contáctame!  
+### 🛠️ Tools & Technologies
 
-📍 **Sígueme en GitHub:** [github.com/auramorosan](https://github.com/auramorosan)
+**Playwright · Karate DSL · Katalon Studio · Postman · JMeter · Jenkins · Git · GitHub**
+
+**Java · JavaScript · TypeScript · HTML · CSS · Angular · Vue.js · Spring Boot**
+
+**PostgreSQL · MySQL**
+
+I'm continuously learning and building projects to improve my skills in **QA automation, web development, and software quality**.
+
+📍 Madrid, Spain
+🌐 LinkedIn: [www.linkedin.com/in/auramorosan](http://www.linkedin.com/in/auramorosan)
 
